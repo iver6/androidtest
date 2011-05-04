@@ -80,6 +80,7 @@ public class HelloWorldService extends AbstractPluginService {
 	public void onDestroy() {
 		super.onDestroy();
 		
+		return;
 		// ... 
 		// Do plugin specifics.
 		// ...
