@@ -69,6 +69,8 @@ public class HelloWorldService extends AbstractPluginService {
 	public void onCreate() {
 		super.onCreate();
 		
+		return;
+		
 		// ... 
 		// Do plugin specifics.
 		// ...
